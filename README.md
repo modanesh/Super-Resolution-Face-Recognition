@@ -1,1 +1,1 @@
-My B.Sc. thesis projects, a super resolution face recognition software.
+My B.Sc. thesis project, a super resolution face recognition software.
